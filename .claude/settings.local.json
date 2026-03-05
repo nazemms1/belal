@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install @mantine/core @mantine/hooks @mantine/animations framer-motion)",
+      "Bash(npm install @mantine/core @mantine/hooks framer-motion)",
+      "Bash(\"d:\\\\Belal\\\\Belal-Portfolio\\\\src\\\\components\\\\HeroSection.tsx\":*)",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
